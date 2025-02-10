@@ -2,6 +2,7 @@ public class PrimeNumber {
     // Check if a given number is prime or not
     public static boolean isPrime(int num){
         //Implement the logic here
+        return false;
     }
     public static void main(String[] args) {
         int number = 19;
