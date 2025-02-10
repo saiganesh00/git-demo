@@ -1,7 +1,7 @@
 public class PrimeNumber {
     // Check if a given number is prime or not
     public static void main(String[] args) {
-        int number = 17;
+        int number = 19;
         boolean isPrime = true;
         
         for (int i = 2; i <= Math.sqrt(number); i++) {
